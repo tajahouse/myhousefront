@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.typewriter_intro {
+  text-align: center;
+  color: blue;
+}
+.typewriter_intro p{
+  font-family: "Copperplate", fantasy;
+  font-size: 2em;
+}
+.typewriter_intro .Typewriter .Typewriter__wrapper{
+  font-family: "LLucida Handwriting", cursive;
+
+}
+

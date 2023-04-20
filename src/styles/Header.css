@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.nav_bar {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
