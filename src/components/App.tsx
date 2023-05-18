@@ -1,6 +1,6 @@
 import React from 'react';
 import Typewriter from 'typewriter-effect';
-import Header from './Header';
+import Header from './Header.tsx';
 import '../styles/App.css';
 
 
