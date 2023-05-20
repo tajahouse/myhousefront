@@ -37,6 +37,10 @@
   }
 }
 
+#root {
+  display: grid;
+}
+
 .typewriter_intro {
   text-align: center;
   color: blue;
